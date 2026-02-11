@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Ignore specific files
+README-1.md
+hands-on_project-1.py
+
+
+.DS_Store
+.idea/
+.vscode/
+*.log
+coverage/
+htmlcov/
+dist/
+build/
+*.egg-info/
