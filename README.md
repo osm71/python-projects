@@ -28,6 +28,8 @@ Skills used:
 - Arithmetic operations
 - Clean output formatting
 
+🚧 More projects coming soon...
+
 ---
 
 ## 🛠 Technologies
